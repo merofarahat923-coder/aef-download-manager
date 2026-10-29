@@ -71,6 +71,14 @@ WARP بيفتح المواقع المحجوبة بس بيفضل في مكان ق
 **الإعدادات والتحميلات بتتحفظ فين؟**
 في `%APPDATA%\AEF Download Manager`.
 
+## ادعم البرنامج ❤️
+
+AEF مجاني. لو البرنامج بيفيدك وحابب تدعم تطويره، تقدر تتبرع بأي مبلغ، وده اختياري تماماً:
+
+<p align="center">
+  <a href="https://www.paypal.com/paypalme/ElsayedMohamed278"><b>💙 Donate with PayPal / تبرع عن طريق PayPal</b></a>
+</p>
+
 ## الإبلاغ عن مشكلة
 
 افتح **[Issue](../../issues/new)** واكتب المشكلة، ولو تقدر ضيف صورة. ملف الأخطاء موجود في `%APPDATA%\AEF Download Manager\error.log`.

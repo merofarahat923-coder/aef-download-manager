@@ -17,6 +17,8 @@
   <a href="../../releases/latest"><img src="https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20%D8%AA%D8%AD%D9%85%D9%8A%D9%84%20%D8%A2%D8%AE%D8%B1%20%D8%A5%D8%B5%D8%AF%D8%A7%D8%B1%20%2F%20Download%20latest-7C5CFF?style=for-the-badge" height="44" alt="Download"></a>
 </p>
 
+<p align="center">🌐 <a href="https://merofarahat923-coder.github.io/aef-download-manager/"><b>موقع البرنامج / Website</b></a></p>
+
 <p align="center">
   <img src="docs/showcase.gif" alt="AEF Download Manager in action" width="92%">
 </p>
